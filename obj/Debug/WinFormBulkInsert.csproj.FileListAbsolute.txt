@@ -1,0 +1,10 @@
+D:\GitHub\WinFormBulkInsert\WinFormBulkInsert\obj\Debug\WinFormBulkInsert.Form1.resources
+D:\GitHub\WinFormBulkInsert\WinFormBulkInsert\obj\Debug\WinFormBulkInsert.Properties.Resources.resources
+D:\GitHub\WinFormBulkInsert\WinFormBulkInsert\obj\Debug\WinFormBulkInsert.csproj.GenerateResource.cache
+D:\GitHub\WinFormBulkInsert\WinFormBulkInsert\obj\Debug\WinFormBulkInsert.csproj.CoreCompileInputs.cache
+D:\GitHub\WinFormBulkInsert\WinFormBulkInsert\bin\Debug\WinFormBulkInsert.exe.config
+D:\GitHub\WinFormBulkInsert\WinFormBulkInsert\bin\Debug\WinFormBulkInsert.exe
+D:\GitHub\WinFormBulkInsert\WinFormBulkInsert\bin\Debug\WinFormBulkInsert.pdb
+D:\GitHub\WinFormBulkInsert\WinFormBulkInsert\obj\Debug\WinFormBulkInsert.exe
+D:\GitHub\WinFormBulkInsert\WinFormBulkInsert\obj\Debug\WinFormBulkInsert.pdb
+D:\GitHub\WinFormBulkInsert\WinFormBulkInsert\obj\Debug\WinFormBulkInsert.csprojAssemblyReference.cache
